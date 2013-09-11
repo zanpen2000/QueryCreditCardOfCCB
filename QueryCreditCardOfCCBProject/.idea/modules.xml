@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QueryCreditCardOfCCB/QueryCreditCardOfCCB.iml" filepath="$PROJECT_DIR$/QueryCreditCardOfCCB/QueryCreditCardOfCCB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueryCreditCardOfCCBProject.iml" filepath="$PROJECT_DIR$/QueryCreditCardOfCCBProject.iml" />
+    </modules>
+  </component>
+</project>
+

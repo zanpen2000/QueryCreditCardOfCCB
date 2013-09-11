@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QueryCreditCardOfCCB</string>
+    <string name="action_settings">Settings</string>
+    <string name="appTitle">建设银行信用卡(95533)账单查询</string>
+    <string name="appTip">请输入信用卡尾部4位号码：</string>
+    <string name="currentBill">本期账单</string>
+    <string name="leftMoney">余额</string>
+    <string name="limit">额度</string>
+    <string name="scores">积分</string>
+    <string name="sendText">发送查询短信</string>
+    <string name="sendOK">发送成功，请注意查收短信</string>
+    <string name="OKText">我知道了</string>
+    <string name="ccbTextNumber">95533</string>
+    <string name="emptyCardIdTip">请填写信用卡尾部4位号码</string>
+</resources>
